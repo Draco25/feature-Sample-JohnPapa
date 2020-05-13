@@ -11,7 +11,7 @@
     "breeze-mongodb": "^0.0.6",
     "compression": "~1.0.1",
     "cors": "^2.2.0",
-    "debug": "~0.7.4",
+    "debug": "~4.1.1",
     "express": "^4.0.0",
     "mongodb": "^1.4.20",
     "morgan": "~1.0.0",
